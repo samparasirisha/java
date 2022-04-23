@@ -1,0 +1,20 @@
+import java.util.*;
+class personal
+{
+  personal()
+  {
+      	System.out.println("My Personal Information\n");
+      	System.out.println("NAME           :SIRISHA");
+      	System.out.println("QUALIFICATION  : MCA");
+      	System.out.println("PLACE          : KAKINADA");
+      	System.out.println("PHNO           : 9876543210");
+  }
+}
+public class Main
+{
+    
+	public static void main(String[] args)
+	{
+	  personal per=new personal();
+	}
+}
